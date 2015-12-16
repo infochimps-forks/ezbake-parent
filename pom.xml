@@ -30,6 +30,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <slf4j.version>1.7.6</slf4j.version>
         <elasticsearch.version>1.5.2</elasticsearch.version>
+        <springweb.version>3.0.5.RELEASE</springweb.version>
 
         <!--
         Note: The following 2 properties are required to be set (in a user profile or
